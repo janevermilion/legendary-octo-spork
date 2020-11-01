@@ -1,0 +1,7 @@
+{
+  "port": "5000",
+  "urlDb": "postgres://postgres:12345@localhost:5432/rkina",
+  "salt": "_271kweV77",
+  "email": "rkina@mail.ru",
+  "emailPass": "123"
+}
